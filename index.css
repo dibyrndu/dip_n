@@ -1,0 +1,143 @@
+.aaaa{
+    height: 300px;
+    width: 300px;
+    background-color: rgba(127, 255, 212, 0.692);
+    border-radius: 100%;
+    position: relative;
+    left: 25px;
+    top: 25px;
+}
+.zzzz{
+    position: absolute;
+    left: 30px;
+    top: 22px;
+    
+}
+.aaa{
+    height: 350px;
+    width: 350px;
+    background-color: rgba(237, 218, 8, 0.657);
+    border-radius: 100%;
+    position: relative;
+
+   
+}
+.a{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 10px;
+}
+.aa{
+    margin-top: 50px;
+}
+.bb{
+    height: 300px;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+.b1{
+    background-color: rgba(115, 240, 240, 0.807);
+}
+.b2{
+    background-color: rgba(137, 223, 9, 0.756);
+}
+.b3{
+    background-color: rgba(248, 162, 49, 0.842);
+}
+.x{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.master{
+    display: flex;
+    justify-content: center;
+}
+.step_3{
+    margin-right:300px ;
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+    position: relative;
+}
+
+.step_a1{
+    height: 400px;
+    width: 500px;
+    border: 0.5px solid #faf8f8;
+    position: relative;
+}
+.step_a2{
+    height: 170px;
+    width: 170px;
+    background-color: rgb(247, 151, 6);
+    margin-left: 25px;
+    margin-bottom: 50px;
+    border-radius: 100%;
+    position: absolute;
+   top: 10px;
+   
+   
+}
+.step_a3{
+    height: 130px;
+    width: 130px;
+    background-color: rgb(252, 253, 253);
+    border-radius: 100%;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.step_b{
+    height: 400px;
+    width: 500px;
+    border: 0.5px solid rgb(255, 255, 255);
+    position: relative;
+}
+.step_b1{
+    height: 170px;
+    width: 170px;
+    background-color: rgb(247, 151, 6);
+    margin-left: 25px;
+    margin-bottom: 50px;
+    border-radius: 100%;
+    position: absolute;
+    bottom: -50px;
+    right: 0px;
+}
+.step_b2{
+    height: 130px;
+    width: 130px;
+    background-color: rgb(252, 253, 253);
+    border-radius: 100%;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.step_4{
+    display: flex;
+    justify-content: center;
+    margin-left: -50px;
+    gap: 90px;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.step_5{
+    height: 100px;
+    width: 100%;
+    background-color: rgba(33, 1, 1, 0.961);
+}
+.step_c1{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
